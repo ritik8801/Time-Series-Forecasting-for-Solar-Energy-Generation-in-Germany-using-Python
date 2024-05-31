@@ -12,7 +12,7 @@ Libraries: statsmodels, datetime, scikit-learn, matplotlib, seaborn, pandas, num
 
 ## Dataset
 
-- The dataset of renewable energy generation is from [data.open-power-system-data.org](https://data.open-power-system-data.org/time_series/2020-10-06) (original source: ENTSO-E Transparency).
+- The dataset of renewable energy generation is from [Open Power System Data](https://data.open-power-system-data.org/time_series/2020-10-06) (original source: ENTSO-E Transparency).
 
 
 ## Machine Learning problems
