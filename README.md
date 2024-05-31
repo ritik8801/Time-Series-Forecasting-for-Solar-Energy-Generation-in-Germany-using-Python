@@ -1,4 +1,4 @@
-# Time Series Forecasting for Solar Energy Generation in Germany
+# Time Series Forecasting for Solar Energy Generation in Germany using Python
 
 The project predicts weekly solar energy generation in Germany for 2021-2022 based on 2015-2020 data with accuracy of 81% using seasonal ARIMA model.
 
